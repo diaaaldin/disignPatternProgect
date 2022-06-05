@@ -1,0 +1,8 @@
+C:\Users\DiaaAldin\source\repos\DesignPatternProject\DesignPatternProject\bin\Debug\DesignPatternProject.exe.config
+C:\Users\DiaaAldin\source\repos\DesignPatternProject\DesignPatternProject\bin\Debug\DesignPatternProject.exe
+C:\Users\DiaaAldin\source\repos\DesignPatternProject\DesignPatternProject\bin\Debug\DesignPatternProject.pdb
+C:\Users\DiaaAldin\source\repos\DesignPatternProject\DesignPatternProject\obj\Debug\DesignPatternProject.csproj.AssemblyReference.cache
+C:\Users\DiaaAldin\source\repos\DesignPatternProject\DesignPatternProject\obj\Debug\DesignPatternProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\DiaaAldin\source\repos\DesignPatternProject\DesignPatternProject\obj\Debug\DesignPatternProject.csproj.CoreCompileInputs.cache
+C:\Users\DiaaAldin\source\repos\DesignPatternProject\DesignPatternProject\obj\Debug\DesignPatternProject.exe
+C:\Users\DiaaAldin\source\repos\DesignPatternProject\DesignPatternProject\obj\Debug\DesignPatternProject.pdb
